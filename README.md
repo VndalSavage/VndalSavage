@@ -2,6 +2,7 @@
 
 Hi i'm into stars and stuff 
 <br />
+life is not very daijoubu
 <br />
 ![woeisme](https://raw.githubusercontent.com/VndalSavage/VndalSavage/main/806543686431146044.png)
 
