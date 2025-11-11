@@ -2,11 +2,15 @@
 
 Hi i'm into stars and stuff 
 <br />
+<br />
 Senior @ Virginia Tech 
-Advanced Discrete Mathematics
+<br />
+Advanced Discrete Mathematics &
 Computer Science
 <br />
+<br />
 Interested in all things computing, math and programming
+<br />
 <br />
 life is daijoubu if you make it
 <br />
